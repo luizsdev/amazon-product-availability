@@ -23,6 +23,7 @@ cp .env.example .env
 
 4. Edit the `.env` file with your configuration:
 - Set your Amazon product URL
+- Set the chrome driver path
 - Configure your email settings
 - Adjust search text and check interval as needed
 
